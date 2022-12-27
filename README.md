@@ -17,21 +17,21 @@ apache-tomcat-8.5.78 <br>
 ## 프로젝트 시연
 ### 회원 관리
 #### 신규 회원 가입
-<img src="https://user-images.githubusercontent.com/111734755/209703853-1cdb1fa3-10f7-4fe0-9359-0f82b8ad1361.gif">
+<img src="https://user-images.githubusercontent.com/111734755/209706097-27d5a425-40bf-4f02-ab0c-69b3a4f6e087.gif">
 
 #### 로그인 / 로그아웃
-<img src="https://user-images.githubusercontent.com/111734755/209704118-13350700-75fe-4c09-8893-e1da448ac9e0.gif">
+<img src="https://user-images.githubusercontent.com/111734755/209706397-21bc5ce2-d99e-4457-b7e4-f9880d0c7bad.gif">
 
 ### QnA 게시판
 #### QnA 작성 / 조회
-<img src="https://user-images.githubusercontent.com/111734755/209704132-a1b28eb5-3ab8-451c-8ff5-21333ffdb636.gif">
+<img src="https://user-images.githubusercontent.com/111734755/209706676-afec9618-4115-4b1f-ac9a-504ba57e2440.gif">
 
 #### QnA 수정 / 삭제
-<img src="https://user-images.githubusercontent.com/111734755/209704134-2b837e5b-5382-48f5-a595-d733609a162d.gif">
+<img src="https://user-images.githubusercontent.com/111734755/209706984-ca6c5eee-2f24-445a-9780-f43b9c06a4af.gif">
 
 ### Review 게시판
 #### Review 작성 / 조회
-<img src="https://user-images.githubusercontent.com/111734755/209704140-f6785620-b5df-4f2e-b8db-1cbdde82b1f0.gif">
+<img src="https://user-images.githubusercontent.com/111734755/209707185-c3f8ea93-6da5-43b4-9bf7-ac1f3d5bfa33.gif">
 
 #### Review 수정 / 삭제
-<img src="https://user-images.githubusercontent.com/111734755/209704144-cd7266e6-c499-47ee-8541-284317dd22d5.gif">
+<img src="https://user-images.githubusercontent.com/111734755/209707358-231a51cf-1e27-4d68-8f20-90aa58b6fd7f.gif">
