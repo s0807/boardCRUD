@@ -8,15 +8,15 @@ java 1.8 (jdk 1.8) <br>
 Oracle <br>
 apache-tomcat-8.5.78 <br>
 ## DB 구조/구성
-# 1. 회원 관리 <br>
+1. 회원 관리 <br>
 - 신규 회원 가입 <br>
 - 로그인 / 로그아웃 <br>
 2. 게시판 관리 (QnA, Review)
 - 글 작성 / 조회 <br>
 - 글 수정 / 삭제 <br>
 ## 프로젝트 시연
-### 회원 관리
-#### 신규 회원 가입
+### 1. 회원 관리
+### 1-1. 신규 회원 가입
 <img src="https://user-images.githubusercontent.com/111734755/209706097-27d5a425-40bf-4f02-ab0c-69b3a4f6e087.gif">
 
 #### 로그인 / 로그아웃
