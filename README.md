@@ -8,7 +8,7 @@ java 1.8 (jdk 1.8) <br>
 Oracle <br>
 apache-tomcat-8.5.78 <br>
 ## DB 구조/구성
-1. 회원 관리 <br>
+# 1. 회원 관리 <br>
 - 신규 회원 가입 <br>
 - 로그인 / 로그아웃 <br>
 2. 게시판 관리 (QnA, Review)
